@@ -1,0 +1,62 @@
+body {
+
+    background-color: #ebddec;
+    font-family: 'Lobster', cursive;
+    color: #4d2240;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+   
+  }
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+    width: 400px; 
+  }
+  
+
+  .img-container {
+    position: relative;
+    display: inline-block;
+    
+}
+
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    color: #4d2240;
+  
+}
+
+header {
+  margin-top: 40px;
+  font-size: 28px;
+  font-family: 'Cedarville Cursive', cursive; 
+  font-weight: bold;
+}
+
+p {
+  font-size: 18px;
+
+}
+
+
+  
+.footer {
+  
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px 0;
+  text-align: center;
+  z-index: 1;
+  margin-top: 300px;
+}
+
+  
+ 

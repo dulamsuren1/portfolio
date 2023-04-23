@@ -1,0 +1,33 @@
+.top-background {
+    height: 200px;
+    background-color: #f7ecec;
+  }
+  
+  .project-header {
+    position: relative;
+  }
+  
+  .project-header img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+  }
+  
+  .overlay img {
+    width: 80%;
+    height: auto;
+  }
+  
+  .overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'L
+  

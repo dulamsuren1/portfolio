@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="stylep.css"> 
+  </head>
+  <body> 
+    <div class="topbg">
+    <div class="container">
+      <div class="content">
+      <div class="row">
+        <div class="col-md-6">
+          <img src="polaroid.png" class="w-50 h-50" alt="polaroid">
+          <img src="speechbubble.png" class="w-50 h-50 speechbubble" alt="speechbub">
+          <div class="speechbubble">
+          <p>Hi!</p>
+         </div>
+        </div>
+        
+        <div class="col-md-6">
+          <h1>curriculum vitae</h1>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="card border-primary mb-3" style="width: 110%;">
+                <div class="card-header">About me</div>
+                <div class="card-body text-primary">                   
+                  <p class="card-text">name: О.Дуламсүрэн
+                    birth: 12.01.2001
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card border-primary mb-3" style="width: 105%; height: 90%;">
+                <div class="card-header">Education</div>
+                <div class="card-body text-primary">   
+                  <p class="card-text">highshcool: МОХС
+                    university: СЭЗИС
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card border-primary mb-3" style="width: 112%;">
+                <div class="card-header">Experience</div>
+                <div class="card-body text-primary">
+                  <p class="card-text">10жилд зургийн дугуйлан. ШҮТИС-ийн хар зургийн дугуйлан
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <p2>languages: monglian/native russian/highschool english/IELTS 7 japanese/N3</p2>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+</div>
+<div class="project-header" >
+        
+</div>
+<div class="row mx-auto">
+  <div class="col-md-4">
+    <ul class="list-group">
+      <li class="list-group-item">
+        <a href="digitalart.html">
+          <div class="image-container">
+            <img src="pinknote.png" alt="Digital art" class="img-fluid">
+            <h2 class="overlay-text">Дижитал арт</h2>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="col-md-4">
+    <ul class="list-group">
+      <li class="list-group-item">
+        <a href="acrilyc.html"><div class="image-container">
+          <img src="pinknote.png" alt="Acrylic painting" class="img-fluid overlay-image">
+          <h2 class="overlay-text">Тосон зураг</h2>
+        </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="col-md-4">
+    <ul class="list-group">
+      <li class="list-group-item">
+        <a href="traditional.html"><div class="image-container">
+          <img src="pinknote.png" alt="Black and white photography" class="img-fluid overlay-image">
+          <h2 class="overlay-text">Хар зураг</h2>
+          
+        </div>
+        </a>  
+      </li>
+    </ul>
+  </div>
+</div>
+
+    <footer class="footer">
+     <p>&copy; 2023 My Projects</p>
+      </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script
+    </body>
+    </html>
